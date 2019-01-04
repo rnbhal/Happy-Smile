@@ -1,7 +1,7 @@
 # Happy-Smile
 Detecting Whether a person is Smiling or Not
 
-** Test Accuracy: 98% **
+**Test Accuracy: 98%**
 
 Pytorch Framework
 
