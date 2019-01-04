@@ -4,6 +4,9 @@ Detecting Whether a person is Smiling or Not
 **Test Accuracy: 98%**
 
 Pytorch Framework
+Used tqdm library for Progressbar (Optional:You can remove it in the train function)
+Using GPU Model
+
 
 ## Dataset: https://www.kaggle.com/iarunava/happy-house-dataset<br />
 This dataset can be used to solve the Happy House problem. Where, we allow a person to enter the house only if he/she is smiling! So, a smile detector!<br />
